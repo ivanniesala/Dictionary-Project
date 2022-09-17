@@ -33,15 +33,15 @@ export default function Dictionary() {
         <input
           className="form-control me-2"
           type="search"
-          placeholder="Search"
+          placeholder="Search a word to find its meaning"
           aria-label="Search"
           onChange={handleKeywordChange}
         />
         <button className="btn btn-outline-secondary" type="submit">
-          Search
+          Explore
         </button>
       </form>
-     
+
       <Results results={results} />
     </div>
   );
