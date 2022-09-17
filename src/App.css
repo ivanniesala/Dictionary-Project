@@ -15,6 +15,11 @@
   margin: 0 auto;
 }
 
-.App-link {
+.link {
   color: #61dafb;
+  text-decoration: none;
+}
+
+#resources {
+  color: #f9f5ff;
 }
