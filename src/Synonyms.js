@@ -1,7 +1,7 @@
 import React from "react";
 import "./Synonyms.css";
 export default function Synonyms(props) {
-  if (props.synonyms.length > 1) {
+  if (props.synonyms.length >= 1) {
     return (
       <ul className="Synonyms">
         Synonyms:{" "}

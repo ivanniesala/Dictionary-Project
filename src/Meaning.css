@@ -1,0 +1,9 @@
+.Definition {
+  font-size: 25px;
+}
+
+.Meaning h4{
+    text-decoration: underline;
+    font-size: 30px;
+    text-transform:capitalize;
+}

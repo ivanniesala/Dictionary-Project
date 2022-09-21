@@ -8,4 +8,5 @@
   color: #d77fa1;
   display: inline-block;
   padding-right: 12px;
+  text-transform: capitalize;
 }
