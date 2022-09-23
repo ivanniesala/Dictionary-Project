@@ -5,12 +5,15 @@
     rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px,
     rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
   border-radius: 10px;
-  opacity: 0.6;
+  background: rgba(255, 255, 255, 0.5);
   padding: 20px 20px 4px;
   margin: 0 auto;
+
 }
+
 
 .Dictionary p {
   font-size: smaller;
   padding: 10px 0px 0px;
 }
+
