@@ -42,7 +42,8 @@ export default function App() {
             >
               GitHub {""}
             </a>
-            hosted on{" "}
+            <br />
+            Website hosted on{" "}
             <a
               href="https://app.netlify.com/teams/ivanniesala/overview"
               target="_blank"

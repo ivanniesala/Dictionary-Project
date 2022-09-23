@@ -41,7 +41,9 @@ export default function Dictionary() {
           Explore
         </button>
       </form>
-
+      <p>
+        Suggested words: Sunset, wine, yoga, etc..
+      </p>
       <Results results={results} />
     </div>
   );
