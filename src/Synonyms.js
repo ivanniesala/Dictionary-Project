@@ -5,7 +5,7 @@ export default function Synonyms(props) {
     return (
       <ul className="Synonyms">
         Synonyms:{" "}
-        {props.synonyms.map(function (synonym, index) {
+        {props.synonyms.slice(0, 5).map(function (synonym, index) {
           return <li key={index}>{synonym}</li>;
         })}
       </ul>

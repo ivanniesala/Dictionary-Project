@@ -9,7 +9,7 @@ export default function Meaning(props) {
     <div className="Meaning">
       <h4>{props.meaning.partOfSpeech}</h4>
 
-      {props.meaning.definitions.map(function (definition, index) {
+      {props.meaning.definitions.slice(0, 4).map(function (definition, index) {
         return (
           <div key={index}>
             <div className="Definition">{definition.definition}</div>
