@@ -60,7 +60,6 @@ export default function Dictionary() {
       <p>Suggested words: Sunset, wine, yoga, etc..</p>
       <Photos photos={photos} />
       <Results results={results} />
-    
     </div>
   );
 }

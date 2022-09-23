@@ -1,10 +1,11 @@
 .Definition {
   font-size: 25px;
-  opacity: 0.8;
+ 
 }
 
 .Meaning h4{
     text-decoration: underline;
     font-size: 30px;
     text-transform:capitalize;
+    
 }

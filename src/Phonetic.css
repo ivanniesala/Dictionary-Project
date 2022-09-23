@@ -1,0 +1,10 @@
+.Phonetic a {
+    text-decoration: none;
+    color: #4756ca; 
+    display:inline-block;
+    margin: 0 auto;
+}
+.Phonetic a:hover {
+  color:  #ffc93c;
+  text-decoration: none;
+}
