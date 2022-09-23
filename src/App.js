@@ -16,7 +16,7 @@ export default function App() {
           <p id="resources">
             Created by {""}
             <a
-              href="https://www.linkedin.com/in/ivannie-saladin-736b50132/"
+              href="https://jocular-snickerdoodle-0041c0.netlify.app/"
               target="_blank"
               rel="noreferrer"
               className="link"
